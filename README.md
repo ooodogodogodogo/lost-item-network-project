@@ -1,6 +1,6 @@
 # Lost Item Network Project
 
-Lost item project is a project that shows lost items to Bogazici Members in same network. Found items are broadcasted via UDP with periodic synchronization packets. Synchronization happens in every 30 seconds.
+Lost item project is a project (that I implemented with my teammate Onur Can Avcı) shows lost items to Bogazici Members in same network. Found items are broadcasted via UDP with periodic synchronization packets. Synchronization happens in every 30 seconds.
 
 ## Why?
 
